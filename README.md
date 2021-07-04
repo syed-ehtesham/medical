@@ -1,2 +1,4 @@
 # medical
+---
 permalink: /index.html
+---

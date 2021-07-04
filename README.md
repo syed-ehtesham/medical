@@ -1,1 +1,2 @@
 # medical
+permalink: /index.html
